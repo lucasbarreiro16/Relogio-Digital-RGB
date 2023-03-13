@@ -32,6 +32,7 @@ body {
   max-width: 550px;
   width: calc(100vw - var(--width-conteudo));
   height: 150px;
+  max-height: 150px;
 
   border-radius: 10px;
 
@@ -59,6 +60,7 @@ body {
   max-width: 530px;
   width: calc(100vw - var(--width-relogio));
   height: 130px;
+  max-height: 130px;
 
   border-radius: 10px;
 }
